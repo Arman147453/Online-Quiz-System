@@ -84,5 +84,4 @@ Email notifications ✉️
 
 👨‍💻 Author
 
-Developed by [Your Name] ✨
-Feel free to fork this repo, suggest improvements, or open issues.
+Developed by Md. Arman Ahmed ✨
