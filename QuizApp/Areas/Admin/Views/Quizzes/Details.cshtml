@@ -1,0 +1,35 @@
+﻿@model QuizApp.Models.Quiz
+@{
+    ViewData["Title"] = "Quiz Details";
+}
+
+<h1>@Model.Title</h1>
+
+<p><strong>Active:</strong> @(Model.IsActive ? "Yes" : "No")</p>
+
+@if (!string.IsNullOrWhiteSpace(Model.Description))
+{
+    <h3>Description</h3>
+    <p>@Model.Description</p>
+}
+else
+{
+    <p><em>No description provided.</em></p>
+}
+
+
+@if (Model.Questions == null || !Model.Questions.Any())
+{
+    
+}
+else
+{
+    <ul>
+        @foreach (var q in Model.Questions)
+        {
+            <li>@q.Text</li>
+        }
+    </ul>
+}
+
+<a asp-area="Admin" asp-controller="Quizzes" asp-action="Index" class="btn btn-secondary">Back</a>

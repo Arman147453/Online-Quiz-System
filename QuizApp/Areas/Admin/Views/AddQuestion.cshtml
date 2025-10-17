@@ -1,0 +1,22 @@
+﻿@model QuizApp.Models.Question
+
+@{
+    ViewData["Title"] = "Add Question";
+    var quizId = ViewBag.QuizId;
+}
+
+<h2>Add Question</h2>
+<hr />
+
+<form asp-action="AddQuestion" method="post">
+    <input type="hidden" name="quizId" value="@quizId" />
+
+    <div class="form-group mb-3">
+        <label asp-for="Text" class="form-label"></label>
+        <input asp-for="Text" class="form-control" />
+        <span asp-validation-for="Text" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-success">Save Question</button>
+    <a asp-action="Quizzes" class="btn btn-secondary">Back</a>
+</form>

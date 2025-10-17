@@ -1,0 +1,34 @@
+﻿@model IEnumerable<QuizApp.Models.Quiz>
+
+@{
+    ViewData["Title"] = "Manage Quizzes";
+}
+
+<h2>Manage Quizzes</h2>
+<hr />
+
+<p>
+    <a asp-action="CreateQuiz" class="btn btn-primary">+ Create New Quiz</a>
+</p>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Status</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var quiz in Model)
+        {
+            <tr>
+                <td>@quiz.Title</td>
+                <td>@(quiz.IsActive ? "Active" : "Inactive")</td>
+                <td>
+                    <a asp-action="AddQuestion" asp-route-quizId="@quiz.Id" class="btn btn-sm btn-success">Add Question</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

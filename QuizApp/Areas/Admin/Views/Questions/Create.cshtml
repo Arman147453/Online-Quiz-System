@@ -1,0 +1,28 @@
+﻿@model QuizApp.ViewModels.QuestionCreateViewModel
+@{
+    ViewData["Title"] = "Add Question";
+}
+<h2>Add Question to @Model.QuizTitle</h2>
+
+<form method="post">
+    <input type="hidden" asp-for="QuizId" />
+    <div class="mb-3">
+        <label class="form-label">Question Text</label>
+        <input class="form-control" asp-for="Text" />
+        <span asp-validation-for="Text" class="text-danger"></span>
+    </div>
+
+    <h5>Options (mark correct)</h5>
+    @for (int i = 0; i < Model.Options.Count; i++)
+    {
+        <div class="mb-2">
+            <input type="text" class="form-control mb-1" asp-for="@Model.Options[i].Text" placeholder="Option text" />
+            <div class="form-check">
+                <input class="form-check-input" type="checkbox" asp-for="@Model.Options[i].IsCorrect" />
+                <label class="form-check-label">Is Correct</label>
+            </div>
+        </div>
+    }
+
+    <button type="submit" class="btn btn-primary">Add Question</button>
+</form>

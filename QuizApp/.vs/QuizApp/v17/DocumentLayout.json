@@ -1,0 +1,695 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|e:\\arman ahmed\\international university of business agriculture and technology - iubat\\11th semester\\csc 439 \u0026 440\\final\\440 - faihaj alam topu sir\\440 final lab project\\visual programming lab (csc 440)\\quizapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|e:\\arman ahmed\\international university of business agriculture and technology - iubat\\11th semester\\csc 439 \u0026 440\\final\\440 - faihaj alam topu sir\\440 final lab project\\visual programming lab (csc 440)\\quizapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|e:\\arman ahmed\\international university of business agriculture and technology - iubat\\11th semester\\csc 439 \u0026 440\\final\\440 - faihaj alam topu sir\\440 final lab project\\visual programming lab (csc 440)\\quizapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|e:\\arman ahmed\\international university of business agriculture and technology - iubat\\11th semester\\csc 439 \u0026 440\\final\\440 - faihaj alam topu sir\\440 final lab project\\visual programming lab (csc 440)\\quizapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|e:\\arman ahmed\\international university of business agriculture and technology - iubat\\11th semester\\csc 439 \u0026 440\\final\\440 - faihaj alam topu sir\\440 final lab project\\visual programming lab (csc 440)\\quizapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|e:\\arman ahmed\\international university of business agriculture and technology - iubat\\11th semester\\csc 439 \u0026 440\\final\\440 - faihaj alam topu sir\\440 final lab project\\visual programming lab (csc 440)\\quizapp\\models\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|solutionrelative:models\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|e:\\arman ahmed\\international university of business agriculture and technology - iubat\\11th semester\\csc 439 \u0026 440\\final\\440 - faihaj alam topu sir\\440 final lab project\\visual programming lab (csc 440)\\quizapp\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|solutionrelative:data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|e:\\arman ahmed\\international university of business agriculture and technology - iubat\\11th semester\\csc 439 \u0026 440\\final\\440 - faihaj alam topu sir\\440 final lab project\\visual programming lab (csc 440)\\quizapp\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|solutionrelative:models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|e:\\arman ahmed\\international university of business agriculture and technology - iubat\\11th semester\\csc 439 \u0026 440\\final\\440 - faihaj alam topu sir\\440 final lab project\\visual programming lab (csc 440)\\quizapp\\areas\\student\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|solutionrelative:areas\\student\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|e:\\arman ahmed\\international university of business agriculture and technology - iubat\\11th semester\\csc 439 \u0026 440\\final\\440 - faihaj alam topu sir\\440 final lab project\\visual programming lab (csc 440)\\quizapp\\areas\\student\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|solutionrelative:areas\\student\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|e:\\arman ahmed\\international university of business agriculture and technology - iubat\\11th semester\\csc 439 \u0026 440\\final\\440 - faihaj alam topu sir\\440 final lab project\\visual programming lab (csc 440)\\quizapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|e:\\arman ahmed\\international university of business agriculture and technology - iubat\\11th semester\\csc 439 \u0026 440\\final\\440 - faihaj alam topu sir\\440 final lab project\\visual programming lab (csc 440)\\quizapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|e:\\arman ahmed\\international university of business agriculture and technology - iubat\\11th semester\\csc 439 \u0026 440\\final\\440 - faihaj alam topu sir\\440 final lab project\\visual programming lab (csc 440)\\quizapp\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|solutionrelative:viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|e:\\arman ahmed\\international university of business agriculture and technology - iubat\\11th semester\\csc 439 \u0026 440\\final\\440 - faihaj alam topu sir\\440 final lab project\\visual programming lab (csc 440)\\quizapp\\areas\\admin\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|solutionrelative:areas\\admin\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|e:\\arman ahmed\\international university of business agriculture and technology - iubat\\11th semester\\csc 439 \u0026 440\\final\\440 - faihaj alam topu sir\\440 final lab project\\visual programming lab (csc 440)\\quizapp\\areas\\admin\\views\\createquiz.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|solutionrelative:areas\\admin\\views\\createquiz.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|e:\\arman ahmed\\international university of business agriculture and technology - iubat\\11th semester\\csc 439 \u0026 440\\final\\440 - faihaj alam topu sir\\440 final lab project\\visual programming lab (csc 440)\\quizapp\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|solutionrelative:viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|e:\\arman ahmed\\international university of business agriculture and technology - iubat\\11th semester\\csc 439 \u0026 440\\final\\440 - faihaj alam topu sir\\440 final lab project\\visual programming lab (csc 440)\\quizapp\\areas\\student\\views\\dashboard\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|solutionrelative:areas\\student\\views\\dashboard\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|e:\\arman ahmed\\international university of business agriculture and technology - iubat\\11th semester\\csc 439 \u0026 440\\final\\440 - faihaj alam topu sir\\440 final lab project\\visual programming lab (csc 440)\\quizapp\\areas\\student\\views\\dashboard\\takequiz.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|solutionrelative:areas\\student\\views\\dashboard\\takequiz.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|e:\\arman ahmed\\international university of business agriculture and technology - iubat\\11th semester\\csc 439 \u0026 440\\final\\440 - faihaj alam topu sir\\440 final lab project\\visual programming lab (csc 440)\\quizapp\\areas\\admin\\controllers\\quizzescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|solutionrelative:areas\\admin\\controllers\\quizzescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|e:\\arman ahmed\\international university of business agriculture and technology - iubat\\11th semester\\csc 439 \u0026 440\\final\\440 - faihaj alam topu sir\\440 final lab project\\visual programming lab (csc 440)\\quizapp\\areas\\admin\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|solutionrelative:areas\\admin\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|e:\\arman ahmed\\international university of business agriculture and technology - iubat\\11th semester\\csc 439 \u0026 440\\final\\440 - faihaj alam topu sir\\440 final lab project\\visual programming lab (csc 440)\\quizapp\\areas\\admin\\views\\questions\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|solutionrelative:areas\\admin\\views\\questions\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|e:\\arman ahmed\\international university of business agriculture and technology - iubat\\11th semester\\csc 439 \u0026 440\\final\\440 - faihaj alam topu sir\\440 final lab project\\visual programming lab (csc 440)\\quizapp\\areas\\admin\\controllers\\optionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|solutionrelative:areas\\admin\\controllers\\optionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|e:\\arman ahmed\\international university of business agriculture and technology - iubat\\11th semester\\csc 439 \u0026 440\\final\\440 - faihaj alam topu sir\\440 final lab project\\visual programming lab (csc 440)\\quizapp\\areas\\admin\\views\\quizzes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|solutionrelative:areas\\admin\\views\\quizzes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|e:\\arman ahmed\\international university of business agriculture and technology - iubat\\11th semester\\csc 439 \u0026 440\\final\\440 - faihaj alam topu sir\\440 final lab project\\visual programming lab (csc 440)\\quizapp\\areas\\admin\\views\\quizzes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|solutionrelative:areas\\admin\\views\\quizzes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|e:\\arman ahmed\\international university of business agriculture and technology - iubat\\11th semester\\csc 439 \u0026 440\\final\\440 - faihaj alam topu sir\\440 final lab project\\visual programming lab (csc 440)\\quizapp\\areas\\admin\\views\\quizzes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|solutionrelative:areas\\admin\\views\\quizzes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|e:\\arman ahmed\\international university of business agriculture and technology - iubat\\11th semester\\csc 439 \u0026 440\\final\\440 - faihaj alam topu sir\\440 final lab project\\visual programming lab (csc 440)\\quizapp\\areas\\admin\\views\\options\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|solutionrelative:areas\\admin\\views\\options\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|e:\\arman ahmed\\international university of business agriculture and technology - iubat\\11th semester\\csc 439 \u0026 440\\final\\440 - faihaj alam topu sir\\440 final lab project\\visual programming lab (csc 440)\\quizapp\\areas\\admin\\views\\options\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|solutionrelative:areas\\admin\\views\\options\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|e:\\arman ahmed\\international university of business agriculture and technology - iubat\\11th semester\\csc 439 \u0026 440\\final\\440 - faihaj alam topu sir\\440 final lab project\\visual programming lab (csc 440)\\quizapp\\areas\\admin\\views\\options\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|solutionrelative:areas\\admin\\views\\options\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|e:\\arman ahmed\\international university of business agriculture and technology - iubat\\11th semester\\csc 439 \u0026 440\\final\\440 - faihaj alam topu sir\\440 final lab project\\visual programming lab (csc 440)\\quizapp\\areas\\admin\\views\\quizzes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|solutionrelative:areas\\admin\\views\\quizzes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|e:\\arman ahmed\\international university of business agriculture and technology - iubat\\11th semester\\csc 439 \u0026 440\\final\\440 - faihaj alam topu sir\\440 final lab project\\visual programming lab (csc 440)\\quizapp\\areas\\admin\\controllers\\questionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|solutionrelative:areas\\admin\\controllers\\questionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|e:\\arman ahmed\\international university of business agriculture and technology - iubat\\11th semester\\csc 439 \u0026 440\\final\\440 - faihaj alam topu sir\\440 final lab project\\visual programming lab (csc 440)\\quizapp\\views\\quiz\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|solutionrelative:views\\quiz\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|e:\\arman ahmed\\international university of business agriculture and technology - iubat\\11th semester\\csc 439 \u0026 440\\final\\440 - faihaj alam topu sir\\440 final lab project\\visual programming lab (csc 440)\\quizapp\\areas\\admin\\views\\addquestion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|solutionrelative:areas\\admin\\views\\addquestion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|e:\\arman ahmed\\international university of business agriculture and technology - iubat\\11th semester\\csc 439 \u0026 440\\final\\440 - faihaj alam topu sir\\440 final lab project\\visual programming lab (csc 440)\\quizapp\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|solutionrelative:areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|e:\\arman ahmed\\international university of business agriculture and technology - iubat\\11th semester\\csc 439 \u0026 440\\final\\440 - faihaj alam topu sir\\440 final lab project\\visual programming lab (csc 440)\\quizapp\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|solutionrelative:areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|e:\\arman ahmed\\international university of business agriculture and technology - iubat\\11th semester\\csc 439 \u0026 440\\final\\440 - faihaj alam topu sir\\440 final lab project\\visual programming lab (csc 440)\\quizapp\\controllers\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|solutionrelative:controllers\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|e:\\arman ahmed\\international university of business agriculture and technology - iubat\\11th semester\\csc 439 \u0026 440\\final\\440 - faihaj alam topu sir\\440 final lab project\\visual programming lab (csc 440)\\quizapp\\viewmodels\\quizresultviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|solutionrelative:viewmodels\\quizresultviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|e:\\arman ahmed\\international university of business agriculture and technology - iubat\\11th semester\\csc 439 \u0026 440\\final\\440 - faihaj alam topu sir\\440 final lab project\\visual programming lab (csc 440)\\quizapp\\views\\quiz\\take.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|solutionrelative:views\\quiz\\take.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|e:\\arman ahmed\\international university of business agriculture and technology - iubat\\11th semester\\csc 439 \u0026 440\\final\\440 - faihaj alam topu sir\\440 final lab project\\visual programming lab (csc 440)\\quizapp\\areas\\admin\\views\\quizzes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|solutionrelative:areas\\admin\\views\\quizzes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|e:\\arman ahmed\\international university of business agriculture and technology - iubat\\11th semester\\csc 439 \u0026 440\\final\\440 - faihaj alam topu sir\\440 final lab project\\visual programming lab (csc 440)\\quizapp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|e:\\arman ahmed\\international university of business agriculture and technology - iubat\\11th semester\\csc 439 \u0026 440\\final\\440 - faihaj alam topu sir\\440 final lab project\\visual programming lab (csc 440)\\quizapp\\views\\quiz\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|solutionrelative:views\\quiz\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|e:\\arman ahmed\\international university of business agriculture and technology - iubat\\11th semester\\csc 439 \u0026 440\\final\\440 - faihaj alam topu sir\\440 final lab project\\visual programming lab (csc 440)\\quizapp\\views\\quiz\\start.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|solutionrelative:views\\quiz\\start.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|e:\\arman ahmed\\international university of business agriculture and technology - iubat\\11th semester\\csc 439 \u0026 440\\final\\440 - faihaj alam topu sir\\440 final lab project\\visual programming lab (csc 440)\\quizapp\\data\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844DA99B-B2DE-46F7-95C0-E36849E02EA5}|QuizApp.csproj|solutionrelative:data\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-12T04:27:46.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Areas\\Student\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Student\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Areas\\Student\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Student\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-11T13:49:45.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Question.cs",
+              "DocumentMoniker": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Models\\Question.cs",
+              "RelativeDocumentMoniker": "Models\\Question.cs",
+              "ToolTip": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Models\\Question.cs",
+              "RelativeToolTip": "Models\\Question.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T12:49:15.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T18:12:52.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAJAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-10T18:23:11.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Quiz.cs",
+              "DocumentMoniker": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Models\\Quiz.cs",
+              "RelativeDocumentMoniker": "Models\\Quiz.cs",
+              "ToolTip": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Models\\Quiz.cs",
+              "RelativeToolTip": "Models\\Quiz.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T12:47:17.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-10T18:04:33.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "Data\\SeedData.cs",
+              "ToolTip": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Data\\SeedData.cs",
+              "RelativeToolTip": "Data\\SeedData.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwDYAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T20:03:09.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-10T18:22:34.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Areas\\Student\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Areas\\Student\\Controllers\\DashboardController.cs",
+              "ToolTip": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Areas\\Student\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Areas\\Student\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T13:48:31.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T04:12:31.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-10T20:20:35.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\LoginViewModel.cs",
+              "ToolTip": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T20:15:00.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Areas\\Admin\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Areas\\Admin\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-11T05:01:32.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateQuiz.cshtml",
+              "DocumentMoniker": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Areas\\Admin\\Views\\CreateQuiz.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\CreateQuiz.cshtml",
+              "ToolTip": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Areas\\Admin\\Views\\CreateQuiz.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\CreateQuiz.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-10T19:46:23.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T20:14:38.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Result.cshtml",
+              "DocumentMoniker": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Areas\\Student\\Views\\Dashboard\\Result.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Student\\Views\\Dashboard\\Result.cshtml",
+              "ToolTip": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Areas\\Student\\Views\\Dashboard\\Result.cshtml",
+              "RelativeToolTip": "Areas\\Student\\Views\\Dashboard\\Result.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-11T13:53:11.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TakeQuiz.cshtml",
+              "DocumentMoniker": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Areas\\Student\\Views\\Dashboard\\TakeQuiz.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Student\\Views\\Dashboard\\TakeQuiz.cshtml",
+              "ToolTip": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Areas\\Student\\Views\\Dashboard\\TakeQuiz.cshtml",
+              "RelativeToolTip": "Areas\\Student\\Views\\Dashboard\\TakeQuiz.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-11T13:52:34.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "QuizzesController.cs",
+              "DocumentMoniker": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Areas\\Admin\\Controllers\\QuizzesController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\QuizzesController.cs",
+              "ToolTip": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Areas\\Admin\\Controllers\\QuizzesController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\QuizzesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T07:40:51.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\AdminController.cs",
+              "ToolTip": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T19:41:06.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Areas\\Admin\\Views\\Questions\\Details.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Questions\\Details.cshtml",
+              "ToolTip": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Areas\\Admin\\Views\\Questions\\Details.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Questions\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-10T19:53:24.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Areas\\Admin\\Views\\Quizzes\\Details.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Quizzes\\Details.cshtml",
+              "ToolTip": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Areas\\Admin\\Views\\Quizzes\\Details.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Quizzes\\Details.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-11T07:35:19.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Areas\\Admin\\Views\\Quizzes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Quizzes\\Edit.cshtml",
+              "ToolTip": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Areas\\Admin\\Views\\Quizzes\\Edit.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Quizzes\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-11T07:36:10.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Areas\\Admin\\Views\\Quizzes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Quizzes\\Index.cshtml",
+              "ToolTip": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Areas\\Admin\\Views\\Quizzes\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Quizzes\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-11T07:58:59.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OptionsController.cs",
+              "DocumentMoniker": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Areas\\Admin\\Controllers\\OptionsController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\OptionsController.cs",
+              "ToolTip": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Areas\\Admin\\Controllers\\OptionsController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\OptionsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T19:49:19.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Areas\\Admin\\Views\\Options\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Options\\Delete.cshtml",
+              "ToolTip": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Areas\\Admin\\Views\\Options\\Delete.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Options\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-10T19:51:05.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Areas\\Admin\\Views\\Options\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Options\\Edit.cshtml",
+              "ToolTip": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Areas\\Admin\\Views\\Options\\Edit.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Options\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-10T19:56:16.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Areas\\Admin\\Views\\Options\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Options\\Create.cshtml",
+              "ToolTip": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Areas\\Admin\\Views\\Options\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Options\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-10T19:50:29.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Quizzes.cshtml",
+              "DocumentMoniker": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Areas\\Admin\\Views\\Quizzes.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Quizzes.cshtml",
+              "ToolTip": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Areas\\Admin\\Views\\Quizzes.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Quizzes.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-10T19:44:42.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "QuestionsController.cs",
+              "DocumentMoniker": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Areas\\Admin\\Controllers\\QuestionsController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\QuestionsController.cs",
+              "ToolTip": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Areas\\Admin\\Controllers\\QuestionsController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\QuestionsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T19:51:32.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Views\\Quiz\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Quiz\\Index.cshtml",
+              "ToolTip": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Views\\Quiz\\Index.cshtml",
+              "RelativeToolTip": "Views\\Quiz\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-10T19:11:24.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AddQuestion.cshtml",
+              "DocumentMoniker": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Areas\\Admin\\Views\\AddQuestion.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\AddQuestion.cshtml",
+              "ToolTip": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Areas\\Admin\\Views\\AddQuestion.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\AddQuestion.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-10T19:46:58.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-11T04:38:41.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-11T04:37:38.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "QuizResultViewModel.cs",
+              "DocumentMoniker": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\ViewModels\\QuizResultViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\QuizResultViewModel.cs",
+              "ToolTip": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\ViewModels\\QuizResultViewModel.cs",
+              "RelativeToolTip": "ViewModels\\QuizResultViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T19:17:28.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "QuizController.cs",
+              "DocumentMoniker": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Controllers\\QuizController.cs",
+              "RelativeDocumentMoniker": "Controllers\\QuizController.cs",
+              "ToolTip": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Controllers\\QuizController.cs",
+              "RelativeToolTip": "Controllers\\QuizController.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAqwIcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T19:21:07.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Take.cshtml",
+              "DocumentMoniker": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Views\\Quiz\\Take.cshtml",
+              "RelativeDocumentMoniker": "Views\\Quiz\\Take.cshtml",
+              "ToolTip": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Views\\Quiz\\Take.cshtml",
+              "RelativeToolTip": "Views\\Quiz\\Take.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-10T19:25:27.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Areas\\Admin\\Views\\Quizzes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Quizzes\\Delete.cshtml",
+              "ToolTip": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Areas\\Admin\\Views\\Quizzes\\Delete.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Quizzes\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-11T07:36:51.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-10T20:20:05.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Result.cshtml",
+              "DocumentMoniker": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Views\\Quiz\\Result.cshtml",
+              "RelativeDocumentMoniker": "Views\\Quiz\\Result.cshtml",
+              "ToolTip": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Views\\Quiz\\Result.cshtml",
+              "RelativeToolTip": "Views\\Quiz\\Result.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-10T19:14:39.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Start.cshtml",
+              "DocumentMoniker": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Views\\Quiz\\Start.cshtml",
+              "RelativeDocumentMoniker": "Views\\Quiz\\Start.cshtml",
+              "ToolTip": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Views\\Quiz\\Start.cshtml",
+              "RelativeToolTip": "Views\\Quiz\\Start.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-10T19:13:46.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ApplicationDbContextFactory.cs",
+              "DocumentMoniker": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Data\\ApplicationDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContextFactory.cs",
+              "ToolTip": "E:\\ARMAN AHMED\\International University of Business Agriculture and Technology - IUBAT\\11th Semester\\CSC 439 \u0026 440\\Final\\440 - Faihaj Alam Topu Sir\\440 Final Lab Project\\Visual Programming Lab (CSC 440)\\QuizApp\\Data\\ApplicationDbContextFactory.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T17:01:23.02Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
